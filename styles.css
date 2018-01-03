@@ -1,0 +1,33 @@
+html {
+  margin: auto auto 100px auto;
+  max-width: 800px;
+  
+  background-color: #FCFCFC;
+  color: #323232;
+}
+
+
+.indent {
+  margin-left: 20px;
+}
+
+.break {
+  line-height: 150%;
+}
+
+.blue {
+  color: #0556a5;
+  font-weight: bold;
+}
+
+
+ul {
+  margin: 0 0 0 0;
+  padding: 0 0 0.5em 1.5em;
+  
+  list-style-type:circle;
+}
+
+ul:last-child {
+  margin-bottom: -10px;
+}
